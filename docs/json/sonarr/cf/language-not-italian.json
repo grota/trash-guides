@@ -1,0 +1,19 @@
+{
+  "trash_id": "33333333333333333333333333333333",
+  "trash_scores": {
+    "default": 0
+  },
+  "name": "Language: Not Italian",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "Not Italian Language",
+      "implementation": "LanguageSpecification",
+      "negate": true,
+      "required": false,
+      "fields": {
+        "value": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "trash_id": "44444444444444444444444444444444",
+  "trash_scores": {
+    "default": 0
+  },
+  "name": "Language: Not Spanish",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "Not Spanish Language",
+      "implementation": "LanguageSpecification",
+      "negate": true,
+      "required": false,
+      "fields": {
+        "value": 3
+      }
+    }
+  ]
+}
