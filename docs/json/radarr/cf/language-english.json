@@ -1,0 +1,19 @@
+{
+  "trash_id": "55555555555555555555555555555555",
+  "trash_scores": {
+    "default": 10
+  },
+  "name": "Language: English",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "English Language",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 1
+      }
+    }
+  ]
+}
